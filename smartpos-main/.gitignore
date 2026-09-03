@@ -1,0 +1,8 @@
+docs/
+documentation/
+test/
+SmartPOS-Documentation*.docx
+.env
+
+.vercel
+.env*
